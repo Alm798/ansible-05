@@ -46,7 +46,6 @@
 
 Комментарий: цель этого шага была ознакомительная — посмотреть, как в реальном мире используют Molecule и из чего состоят сценарии тестирования.
 
-![3](https://github.com/Ivan-Shkutov/ansible-05-testing/blob/main/img/03.png)
 
 ![4](https://github.com/Ivan-Shkutov/ansible-05-testing/blob/main/img/04.png)
 
