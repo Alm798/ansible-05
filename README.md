@@ -167,19 +167,7 @@ https://github.com/Alm798/ansible-05/releases/tag/v1.0.0
 
 ![16](https://github.com/Alm798/ansible-05/blob/main/img/24.png)
 
-После успешного тестирования я сделал коммит с рабочим сценарием:
 
-    git add .
-    
-    git commit -m "Initial commit: добавлен проект TOX"
-
-Создал новый тег по семантическому версионированию:
-
-    git tag -a v1.0.1 -m "Initial commit: добавлен проект TOX"
-    
-    git push origin main --tags
-
-https://github.com/Ivan-Shkutov/ansible-05-testing/releases/tag/v1.0.1
 
 - - - - - - - - - - - - 
 
